@@ -1,4 +1,4 @@
-# pip install SpeechRecognition pyttsx3 wikipedia pyjokes
+# pip install pyttsx3 wikipedia pyjokes
 
 import pyttsx3
 import datetime
